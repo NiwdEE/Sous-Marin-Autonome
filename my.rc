@@ -1,0 +1,25 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040C04E4"
+    BEGIN
+      VALUE "CompanyName", "Edwin AMREIN"
+      VALUE "FileDescription", "CPI1-04 LA BASE"
+      VALUE "FileVersion", "1.1"
+      VALUE "InternalName", "TFP"
+      VALUE "LegalCopyright", "Edwin AMREIN"
+      VALUE "OriginalFilename", "prog.exe"
+      VALUE "ProductName", "TFP"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x040C, 1252
+  END
+END
+
+2 ICON "src/icon.ico"

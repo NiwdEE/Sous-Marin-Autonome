@@ -1,0 +1,13 @@
+#Screen Configuration file
+
+WindowWidth = 1920
+WindowHeight = 1080
+
+FullScreen = True
+Windowed = True
+
+
+
+
+
+
